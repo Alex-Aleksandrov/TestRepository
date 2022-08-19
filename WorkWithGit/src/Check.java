@@ -1,5 +1,6 @@
 public class Check {
-        public static String test(String Name) {
-            return Name;
+        public static Integer test(Integer sum) {
+            count = sum + 3;    
+            return count;
         }
 }
