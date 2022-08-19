@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Check {
+public class Check {
+        public static String test(String Name) {
+            Name = "Alex";
+            return Name;
+        }
 }

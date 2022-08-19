@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ExampleClass {
+public class ExampleClass {
+    public static void main(String[] args) {
+        System.out.println(Check.test("Alex"));
+    }
 }
